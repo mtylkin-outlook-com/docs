@@ -16,7 +16,6 @@ redirect_from:
 versions:
   fpt: '*'
   ghes: '*'
-  ghae: '*'
   ghec: '*'
 children:
   - /understanding-github-actions
@@ -24,7 +23,8 @@ children:
   - /essential-features-of-github-actions
   - /expressions
   - /contexts
-  - /environment-variables
+  - /variables
+  - /using-starter-workflows  
   - /usage-limits-billing-and-administration
 ---
 
